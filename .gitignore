@@ -1,3 +1,5 @@
 build/
-.vscode/
+.vscode/*
+!.vscode/
+!.vscode/tasks.json
 sdkconfig.old
